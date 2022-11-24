@@ -5,10 +5,8 @@
    box-sizing: border-box;
 }
 body {
-
 font-family: "work Sans",sans-serif;
 }
-
 .container {
   padding-left:15px;
   padding-right: 15px; 
@@ -18,24 +16,31 @@ font-family: "work Sans",sans-serif;
 }
 /* small */
 @media (min-width:768px) {
-
 .container {
   width: 750px;
 }
 }
 /* medium */
 @media (min-width:992px) {
-
   .container {
     width: 970px;
   }
   }
   /* large */
   @media (min-width:1200px) {
-
     .container {
       width: 1170px;
     }
     }
     /*End Global Rules*/
+     /* start header */ 
+  .header {
+      padding: 20px;
+  }
+  .header .container {
     
+display: flex;
+justify-content: space-between;
+align-items: center;
+  }   
+
