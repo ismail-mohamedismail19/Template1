@@ -113,4 +113,12 @@ align-items: center;
 .header .links ul li:not(:last-child) a {
   border-bottom: 1px solid #474747;
 }
+/* End Header */
+/* Start Landing Section */
+.landing {
+  background-image: url(../imges/BMW-3-Series-Touring-1.jpg);
+  background-size: cover;
+  height: calc(100vh - 64px);
+}
+
 
