@@ -46,7 +46,19 @@ align-items: center;
   .header .logo {
 width: 150px;    
   }
-  .header .linkes {
+  .header .links {
     position: relative;
   }
+.header .icon {
+  width: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.header .links .icon span {
+  background-color: rgb(21, 144, 168);
+  margin-bottom: 5px;
+  height: 4px;
+}
+
 
