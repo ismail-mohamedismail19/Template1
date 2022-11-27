@@ -46,4 +46,7 @@ align-items: center;
   .header .logo {
 width: 150px;    
   }
+  .header .linkes {
+    position: relative;
+  }
 
