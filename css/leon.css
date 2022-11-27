@@ -104,4 +104,7 @@ align-items: center;
   color: rgb(182, 4, 4);
   transition: 0.3s;
 }
+.header .links ul li a:hover {
+  padding-left: 25px;
+}
 
