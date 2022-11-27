@@ -49,6 +49,12 @@ width: 150px;
   .header .links {
     position: relative;
   }
+  .header .links:hover .icon span:nth-child(2) {
+    width: 100%;
+  }
+  .header .links:hover .icon span:last-child {
+    width: 100%;
+  }
 .header .icon {
   width: 30px;
   display: flex;
@@ -60,5 +66,15 @@ width: 150px;
   margin-bottom: 5px;
   height: 4px;
 }
-
+.header .links .icon span:first-child {
+  width: 100%;
+}
+.header .links .icon span:nth-child(2) {
+  width: 70%;
+  transition: 0.3s;
+}
+.header .links .icon span:last-child {
+  width: 50%;
+  transition: 0.3s;
+}
 
