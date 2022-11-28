@@ -153,3 +153,6 @@ color:rgb(2, 27, 138) ;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 20px;
 }
+.features .feat {
+  
+}
