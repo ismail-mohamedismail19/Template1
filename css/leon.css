@@ -42,6 +42,8 @@ font-family: "work Sans",sans-serif;
       letter-spacing: -2px;
       margin: 0px;
     }
+    .special-heading + p {
+    }
      /* start header */ 
   .header {
       padding: 20px;
