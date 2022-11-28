@@ -45,6 +45,7 @@ font-family: "work Sans",sans-serif;
     .special-heading + p {
       margin: -20px;
       font-size: 20px;
+      text-align: center;
     }
      /* start header */ 
   .header {
