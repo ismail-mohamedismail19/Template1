@@ -37,6 +37,7 @@ font-family: "work Sans",sans-serif;
     .special-heading {
       color: rgb(2, 27, 138);
       font-size: 100px;
+      text-align: center;
     }
      /* start header */ 
   .header {
