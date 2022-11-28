@@ -43,6 +43,7 @@ font-family: "work Sans",sans-serif;
       margin: 0px;
     }
     .special-heading + p {
+      margin: -20px;
     }
      /* start header */ 
   .header {
