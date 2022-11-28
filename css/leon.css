@@ -34,7 +34,9 @@ font-family: "work Sans",sans-serif;
 }
     /*End Global Rules*/
     /* Start Components */
-    
+    .special-heading {
+      
+    }
      /* start header */ 
   .header {
       padding: 20px;
