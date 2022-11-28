@@ -36,6 +36,7 @@ font-family: "work Sans",sans-serif;
     /* Start Components */
     .special-heading {
       color: rgb(2, 27, 138);
+      font-size: 100px;
     }
      /* start header */ 
   .header {
