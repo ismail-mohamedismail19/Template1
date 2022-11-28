@@ -148,4 +148,6 @@ color:rgb(2, 27, 138) ;
   padding-bottom: 60px;
   background-color: antiquewhite;
 }
-
+.features .container {
+  display: grid; 
+}
