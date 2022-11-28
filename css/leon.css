@@ -35,7 +35,7 @@ font-family: "work Sans",sans-serif;
     /*End Global Rules*/
     /* Start Components */
     .special-heading {
-      color: rgb(2, 27, 138);
+      color: rgb(1, 152, 217);
       font-size: 100px;
       text-align: center;
       font-weight: 800;
@@ -43,10 +43,12 @@ font-family: "work Sans",sans-serif;
       margin: 0px;
     }
     .special-heading + p {
-      margin: -20px;
+      margin: -30px;
       font-size: 20px;
       text-align: center;
-      color: rgb(140, 84, 1);
+      color: rgb(3, 0, 81);
+      font-size: 25px;
+      font-weight: 400;
     }
     /* End Components */
      /* start header */ 
