@@ -1,4 +1,7 @@
 /* Start Variables */
+:root {
+  --main-color: rgb(0, 44, 175);
+}
 /* Start Global Rules*/
 *{
   -webkit-box-sizing: border-box;
@@ -50,7 +53,7 @@ font-family: "work Sans",sans-serif;
       margin: -20px;
       font-size: 20px;
       text-align: center;
-      color: rgb(0, 44, 175);
+      color: var(--main-color);
       font-size: 25px;
       font-weight: 500;
     }
@@ -155,13 +158,13 @@ align-items: center;
   text-align: center;
   font-weight:900;
   font-size: 40px;
-  color: rgb(27, 90, 179);
+  color: var(--main-color);
 }
 .landing .intro-text p {
   font-size: 20px;
   font-weight: 500;
   text-align: center;
-color:rgb(2, 27, 138) ;
+color:var(--main-color) ;
 }
 /* end Landing Section */
 /* Start Features */
@@ -181,7 +184,7 @@ color:rgb(2, 27, 138) ;
   text-align: center;
 }
 .features .feat i {
-  color: rgb(2, 27, 138) ;
+  color: var(--main-color) ;
   font-size: 30px;
 }
 .features .feat h3 {
@@ -190,7 +193,7 @@ color:rgb(2, 27, 138) ;
 }
 .features .feat p {
   line-height: 1.6;
-  color: rgb(2, 27, 138);
+  color: var(--main-color);
   font-size: 18px;
 }
 /* End Features */
@@ -216,7 +219,7 @@ color:rgb(2, 27, 138) ;
 }
 }
 .services .services-content .srv i {
-  color: rgb(2, 27, 138);
+  color: var(--main-color);
   flex-basis: 60px;
   font-size: 27px;
 }
@@ -227,7 +230,7 @@ color:rgb(2, 27, 138) ;
   margin: 0 10px;
 }
 .services .services-content .srv .text p {
-  color: rgb(25, 53, 179);
+  color: var(--main-color);
   font-size: 18px;
 }
 .services .services-content .image {
@@ -239,7 +242,7 @@ color:rgb(2, 27, 138) ;
 }
 .services .services-content .image::before {
  content: "";
- background-color:rgb(3, 0, 163) ;
+ background-color:var(--main-color) ;
  width: 100px;
  height: calc(100% + 100px);
  top: -67px;
@@ -276,7 +279,7 @@ z-index: -1;
   text-align: center;
 }
 .portfolio .portfolio-content .card p {
-  color:rgb(2, 0, 110) ;
+  color:var(--main-color) ;
   line-height: 1.6;
   margin-bottom: 0;
   text-align: center;
@@ -318,7 +321,7 @@ z-index: -1;
   width: 100px;
   height: calc(100% + 80px);
   top: -10% ;
-  background-color: rgb(2, 0, 110);
+  background-color: var(--main-color);
   z-index: -1;
 }
 .about .about-content .image::after {
@@ -353,7 +356,7 @@ z-index: -1;
 }
 .about .about-content .text p:last-of-type {
   line-height: 1.8;
-  color:  rgb(2, 0, 110);
+  color:  var(--main-color);
   padding-top: 25px;
 }
 /* End about */
@@ -379,7 +382,7 @@ z-index: -1;
   display: block;
   font-size: 30px;
   font-weight: 700;
-  color:rgb(2, 0, 110) ;
+  color:var(--main-color) ;
   text-decoration: none;
 }
 .contact .info .social {
@@ -409,6 +412,6 @@ font-size: 18px;
 }
 .footer span {
   font-weight: bold;
-  color:rgb(2, 0, 110) ;
+  color:var(--main-color) ;
 }
 /* End Footer */
