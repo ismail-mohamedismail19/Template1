@@ -216,4 +216,5 @@ color:rgb(2, 27, 138) ;
   font-size: 27px;
 }
 .services .services-content .srv .text {
+  flex: 1px;
 }
