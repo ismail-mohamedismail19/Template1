@@ -308,4 +308,10 @@ z-index: -1;
 }
 .about .about-content .image::after {
   content: "";
+  position: absolute;
+  width: 100px;
+  height: 250px;
+  top: -36px;
+  right: -100px;
+
 }
