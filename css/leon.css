@@ -225,14 +225,14 @@ color:rgb(2, 27, 138) ;
   color: rgb(25, 53, 179);
   font-size: 18px;
 }
-.services .services-content {
+.services .services-content .image {
   text-align: center;
   position: relative;
 }
-.services .services-content img {
+.services .services-content .image img {
   width: 300px;
 }
-.services .services-content::before {
+.services .services-content .image::before {
  content: "";
  background-color:rgb(3, 0, 163) ;
  width: 100px;
@@ -241,4 +241,9 @@ color:rgb(2, 27, 138) ;
  position: absolute;
  right: 0;
 z-index: -1;
+}
+@media (max-width: 1000px) {
+  .image {
+    display: none;
+  }
 }
