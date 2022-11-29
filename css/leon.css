@@ -303,4 +303,5 @@ z-index: -1;
   width: 100px;
   height: calc(100% + 80px);
   top: -10% ;
+  background-color: rgb(2, 0, 110);
 }
