@@ -313,5 +313,6 @@ z-index: -1;
   height: 250px;
   top: -36px;
   right: -100px;
-
+  border-left:65px solid rgb(0, 191, 255) ;
+  border-bottom:65px solid rgb(0, 191, 255) ;
 }
