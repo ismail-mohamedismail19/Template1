@@ -240,4 +240,5 @@ color:rgb(2, 27, 138) ;
  top: -67px;
  position: absolute;
  right: 0;
+z-index: -1;
 }
