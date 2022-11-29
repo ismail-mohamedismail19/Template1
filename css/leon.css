@@ -225,5 +225,7 @@ color:rgb(2, 27, 138) ;
   color: rgb(25, 53, 179);
   font-size: 18px;
 }
-.services .services-content .srv .image {
+.services .services-content .image {
+  text-align: center;
+  position: relative;
 }
