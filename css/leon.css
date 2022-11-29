@@ -323,4 +323,5 @@ z-index: -1;
 .about .about-content .text p:first-of-type {
   font-weight: bold;
   line-height: 1.6;
+  margin-bottom: 60px;
 }
