@@ -331,5 +331,6 @@ z-index: -1;
   border-color: rgb(255, 213, 0);
 }
 .about .about-content .text p:last-of-type {
+  line-height: 1.8;
   color:  rgb(2, 0, 110);
 }
