@@ -274,4 +274,5 @@ z-index: -1;
 .portfolio .portfolio-content .card p {
   color:rgb(2, 0, 110) ;
   line-height: 1.6;
+  margin-bottom: 0;
 }
