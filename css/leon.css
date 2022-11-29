@@ -321,5 +321,5 @@ z-index: -1;
   flex-basis: calc(100% - 500px);
 }
 .about .about-content .text p:first-of-type {
-  
+  font-weight: bold;
 }
