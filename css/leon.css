@@ -207,6 +207,9 @@ color:rgb(2, 27, 138) ;
 @media (max-width: 767px) {
 .services .services-content .srv {
   flex-direction: column;
-  text-align: center;
+  text-align: center; 
 }
+}
+.services .services-content .srv i {
+  color: rgb(2, 27, 138);
 }
