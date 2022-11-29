@@ -235,4 +235,5 @@ color:rgb(2, 27, 138) ;
 .services .services-content::before {
  content: "";
  background-color:rgb(3, 0, 163) ;
+ width: 100px;
 }
