@@ -313,8 +313,8 @@ z-index: -1;
   height: 250px;
   top: -36px;
   right: -100px;
-  border-left:65px solid rgb(0, 191, 255) ;
-  border-bottom:65px solid rgb(0, 191, 255) ;
+  border-left:65px solid rgb(0, 141, 188) ;
+  border-bottom:65px solid rgb(0, 141, 188) ;
   z-index: -1;
 }
 .about .about-content .text {
@@ -322,6 +322,7 @@ z-index: -1;
 }
 .about .about-content .text p:first-of-type {
   font-weight: bold;
+  color:rgb(0, 141, 188);
   line-height: 1.6;
   margin-bottom: 40px;
 }
@@ -330,5 +331,5 @@ z-index: -1;
   border-color: rgb(255, 213, 0);
 }
 .about .about-content .text p:last-of-type {
-  
+  color:  rgb(2, 0, 110);
 }
