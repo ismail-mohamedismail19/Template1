@@ -222,4 +222,5 @@ color:rgb(2, 27, 138) ;
   margin: 0 10px;
 }
 .services .services-content .srv .text p {
+  line-height: 1.6;
 }
