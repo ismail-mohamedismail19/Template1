@@ -294,3 +294,6 @@ z-index: -1;
   width: 250px;
   height: 375px;
 }
+.about .about-content .image img {
+  width: 100%;
+}
