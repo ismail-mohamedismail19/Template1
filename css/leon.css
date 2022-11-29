@@ -364,4 +364,7 @@ z-index: -1;
   padding-bottom: 60px;
   text-align: center;
 }
-.contact .info .label {}
+.contact .info .label {
+  font-size: 30px;
+  font-weight: 700;
+}
