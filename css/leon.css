@@ -289,7 +289,7 @@ z-index: -1;
   flex-wrap: wrap;
   justify-content: space-between;
 }
-.about .about-content img {
+.about .about-content .image {
   position: relative;
   width: 250px;
   height: 375px;
