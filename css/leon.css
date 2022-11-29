@@ -224,4 +224,5 @@ color:rgb(2, 27, 138) ;
 .services .services-content .srv .text p {
   line-height: 1.6;
   color: rgb(25, 53, 179);
+  font-size: 18px;
 }
