@@ -4,6 +4,9 @@
   -moz-box-sizing: border-box;
    box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
 body {
 font-family: "work Sans",sans-serif;
 }
