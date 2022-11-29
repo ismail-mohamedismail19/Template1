@@ -268,4 +268,5 @@ z-index: -1;
   background-color:rgb(178, 168,175);
 }
 .portfolio .portfolio-content .card h3 {
+  margin: 18px;
 }
