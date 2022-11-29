@@ -280,4 +280,6 @@ z-index: -1;
 /* End protfolio */ 
 /* Start about */
 .about {
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
