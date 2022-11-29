@@ -212,4 +212,5 @@ color:rgb(2, 27, 138) ;
 }
 .services .services-content .srv i {
   color: rgb(2, 27, 138);
+  flex-basis: 60px;
 }
