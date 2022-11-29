@@ -323,6 +323,12 @@ z-index: -1;
   border-bottom:65px solid rgb(0, 141, 188) ;
   z-index: -1;
 }
+@media (max-width:991px) {
+  .about .about-content .image::before,
+  .about .about-content .image::after {
+    display: none;
+  }
+}
 .about .about-content .text {
   flex-basis: calc(100% - 500px);
 }
