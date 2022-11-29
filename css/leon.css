@@ -315,4 +315,5 @@ z-index: -1;
   right: -100px;
   border-left:65px solid rgb(0, 191, 255) ;
   border-bottom:65px solid rgb(0, 191, 255) ;
+  z-index: -1;
 }
