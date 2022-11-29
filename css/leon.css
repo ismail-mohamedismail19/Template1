@@ -70,7 +70,7 @@ justify-content: space-between;
 align-items: center;
   }   
   .header .logo {
-   width: 150px;    
+   width: 120px;    
   }
   .header .links {
     position: relative;
@@ -144,14 +144,14 @@ align-items: center;
 /* Start Landing Section */
 .landing {
   background-image: url(../imges/BMW-3-Series-Touring-1.jpg);
-  background-size: cover;
-  height: calc(100vh - 64px); 
+  background-size:cover;
+  height: calc(150vh - 1px); 
   position: relative;
 }
 .landing .intro-text {
  position: absolute;
  left: 50% ;
- top: 20%;
+ top: 9%;
  transform: translate(-50%,-50%);
 }
 .landing .intro-text h1 {
