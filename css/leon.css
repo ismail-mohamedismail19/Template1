@@ -249,3 +249,7 @@ z-index: -1;
 } 
 /* End Services */
 /* start portfolio */
+.protfolio {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
