@@ -256,4 +256,5 @@ z-index: -1;
   background-color: #d7d3d3;
 }
 .portfolio .portfolio-content {
+  display: grid;
 }
