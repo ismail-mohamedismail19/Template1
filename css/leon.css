@@ -219,4 +219,5 @@ color:rgb(2, 27, 138) ;
   flex: 1px;
 }
 .services .services-content .srv .text h3 {
+  margin: 0 10px;
 }
